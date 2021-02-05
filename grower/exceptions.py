@@ -1,0 +1,2 @@
+class BranchIsDead(Exception):
+    pass
